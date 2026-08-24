@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=bold&pause=1000&width=500&lines=Java+%C2%B7+Spring+Backend+Developer;Learn+%C2%B7+Apply+%C2%B7+Verify)](https://git.io/typing-svg)
 
 <a href="https://github.com/ES-Im/HARUON_groupware">
-<img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/haruon_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://eunseo-lay.gitbook.io/haruon-project">
 <img src="https://img.shields.io/badge/GitBook-000000?style=for-the-badge&logo=gitbook&logoColor=white" />
